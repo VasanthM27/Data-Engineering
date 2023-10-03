@@ -4,7 +4,10 @@
 
 ## Project Overview
 
-This project represents a comprehensive data engineering endeavor, leveraging Microsoft Azure services, including SQL Server, Azure Data Factory (ADF), Databricks, and Synapse Analytics. The primary objective was to migrate and transform data from an on-premises SQL Server to Azure Synapse Analytics and subsequently visualize and analyze the data using Power BI. Below is an overview of the project's key components, benefits, and steps:
+This project represents a comprehensive data engineering endeavor, leveraging Microsoft Azure services, including SQL Server, Azure Data Factory (ADF), Databricks, and Synapse Analytics. The primary objective was to migrate and transform data from an on-premises SQL Server to Azure Synapse Analytics and subsequently visualize and analyze the data using Power BI. Below is an overview of the project's key components, and benefits
+
+### Overall Process in a Chart
+<img src="https://github.com/VasanthM27/Data-Engineering/blob/main/analytics-solutions-overview.png"/></br>
 
 ## Project Components
 
