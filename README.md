@@ -50,29 +50,6 @@ It follows the **Bronze-Silver-Gold layer architecture** for structured data pro
     - **Commodity Analysis**: Breakdown of product categories and their contribution to the total spend.
     - **Purchasing Trends** over time (monthly/quarterly/yearly).
 
-## Key Insights and KPIs
-
-1. **Total Spend by Country/Region**: 
-   - Breakdown of purchasing spend across different countries and regions.
-   
-2. **Top Performing Products**: 
-   - Identification of products that contribute the most to total revenue.
-   
-3. **Supplier Performance**: 
-   - Analysis of supplier ratings, order volumes, and total spend.
-   
-4. **Sales Trends**: 
-   - Time-based analysis of sales volumes to identify peak periods and trends.
-   
-5. **Return Rates**: 
-   - Measurement of product return rates and reasons, segmented by region and product.
-
-6. **Discount Impact**: 
-   - Analysis of discount application and its impact on total sales.
-
-7. **Average Order Value (AOV)**: 
-   - Calculation of average order value across different countries and suppliers.
-
 ## Project Benefits
 - **Scalable Data Pipeline**: Built to handle large volumes of data efficiently, using Azure’s scalable cloud infrastructure.
 - **Incremental and Full Load Support**: Ensures data consistency and up-to-date processing with both full load and incremental data updates.
